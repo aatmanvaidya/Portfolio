@@ -1,0 +1,12 @@
+#profile-photo{
+    width: 400px;
+    height: 500px;
+    /* border-radius: 50%; */
+    text-align: right;
+    float: right;
+    padding-top: -2em;
+} 
+.heading #name{
+    /* padding-top: 2em;  */
+
+}
